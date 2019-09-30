@@ -1,0 +1,22 @@
+#div1 {
+  font-size: 48px;
+}
+body {
+  background-color: #721bc4;
+  font-family: "Pacifico";
+}
+h1 {
+  background-color: #a666e3;
+  text-shadow: 5px 5px 5px #dfd2ec;
+  text-align: center;
+}
+canvas {
+  animation: mymove 5s infinite;
+  border: 5px #0a3cda;
+  border-style: dotted;
+  border-radius: 10px 10px;
+}
+
+h3 {
+  font-family: "Permanent Marker";
+}
